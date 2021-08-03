@@ -1,2 +1,4 @@
 # odometer-mileage-detection
-Automatic mileage value detection from odometer images
+[Official competition link](https://www.kaggle.com/c/acedatathon19-odometer)
+
+**Goal:** Automatic mileage value detection from odometer images
